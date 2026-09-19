@@ -208,9 +208,9 @@ Type-safe queries catch bugs at development time rather than production runtime.
 
 ## 👩‍💻 Author
 
-**Somya Gupta**
+**Anshika Modi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Somyaguptaece-181717?style=flat-square&logo=github)](https://github.com/Somyaguptaece)
+[![GitHub](https://img.shields.io/badge/GitHub-Anshika--Modi-181717?style=flat-square&logo=github)](https://github.com/Anshika-Modi)
 
 ---
 
